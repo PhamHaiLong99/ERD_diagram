@@ -1,0 +1,122 @@
+<mxfile host="app.diagrams.net" modified="2024-04-19T09:12:30.627Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="Ut62riaXWvOTc7rBHXd5" version="24.2.5" type="github">
+  <diagram name="Page-1" id="ldWRHnPoR3B5E3NkVb-D">
+    <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-2" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" parent="1" vertex="1">
+          <mxGeometry x="480" y="404.5" width="84.52" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-4" value="HiFPT" style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="70" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XAHOA19ZZ9hH5lj70FmJ-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="270" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-6" value="CpeLab Api Server" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="270" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.035;entryY=0.535;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="XAHOA19ZZ9hH5lj70FmJ-6" target="XAHOA19ZZ9hH5lj70FmJ-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="440" as="sourcePoint" />
+            <mxPoint x="450" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-8" value="user_category&lt;br&gt;key:F40B9FCF400EE4F89CBC2E42&lt;br&gt;value:&amp;nbsp;2147483664" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="350" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/DNS_Zones.svg;" parent="1" vertex="1">
+          <mxGeometry x="660" y="408" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="XAHOA19ZZ9hH5lj70FmJ-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="570" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-13" value="1 min read" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="450" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" parent="1" source="XAHOA19ZZ9hH5lj70FmJ-6" target="XAHOA19ZZ9hH5lj70FmJ-4" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="630" as="sourcePoint" />
+            <mxPoint x="450" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-15" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="408" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-16" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="410" y="408" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-17" value="3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="200" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-18" value="4" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="590" y="404.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-19" value="DNS Dig Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="664" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-50" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" parent="1" vertex="1">
+          <mxGeometry x="80" y="550" width="240" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-51" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XAHOA19ZZ9hH5lj70FmJ-50" vertex="1">
+          <mxGeometry width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-52" value="1" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XAHOA19ZZ9hH5lj70FmJ-51" vertex="1">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-53" value="Server HiFpt Call Api Server Cpelab" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="XAHOA19ZZ9hH5lj70FmJ-51" vertex="1">
+          <mxGeometry x="60" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-54" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XAHOA19ZZ9hH5lj70FmJ-50" vertex="1">
+          <mxGeometry y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-55" value="2" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XAHOA19ZZ9hH5lj70FmJ-54" vertex="1">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-56" value="Cpe Api interact with Redis user_category" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="XAHOA19ZZ9hH5lj70FmJ-54" vertex="1">
+          <mxGeometry x="60" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-57" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XAHOA19ZZ9hH5lj70FmJ-50" vertex="1">
+          <mxGeometry y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-58" value="3" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XAHOA19ZZ9hH5lj70FmJ-57" vertex="1">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-59" value="Cpe Api return to HiFpt Server" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=left;" parent="XAHOA19ZZ9hH5lj70FmJ-57" vertex="1">
+          <mxGeometry x="60" width="180" height="40" as="geometry">
+            <mxRectangle width="180" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-60" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XAHOA19ZZ9hH5lj70FmJ-50" vertex="1">
+          <mxGeometry y="120" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-61" value="4" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XAHOA19ZZ9hH5lj70FmJ-60" vertex="1">
+          <mxGeometry width="60" height="50" as="geometry">
+            <mxRectangle width="60" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XAHOA19ZZ9hH5lj70FmJ-62" value="Dns Dig Server read redis every 1 minutes to update block user category" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="XAHOA19ZZ9hH5lj70FmJ-60" vertex="1">
+          <mxGeometry x="60" width="180" height="50" as="geometry">
+            <mxRectangle width="180" height="50" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
